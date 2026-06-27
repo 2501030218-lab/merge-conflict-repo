@@ -11,3 +11,5 @@ Current Version: Version A
 ==================================================
 
 The purpose of this file is to intentionally create merge conflicts.
+
+newbranch-1 changes
